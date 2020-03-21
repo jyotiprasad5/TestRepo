@@ -1,0 +1,3 @@
+# Mnetion files which needs to be ignored
+*.class
+*.out
